@@ -1,6 +1,6 @@
 import React from "react";
 import Slider  from "./slider";
-import { products } from '/src/moke'
+import { products } from '/src/mock'
 
 export default {
     title: 'Слайдер (Slider)'
